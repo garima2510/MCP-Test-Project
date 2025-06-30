@@ -1,0 +1,51 @@
+{
+  "1209.4847v1": {
+    "title": "The new classes of the genetic algorithms are defined by nonassociative groupoids",
+    "authors": [
+      "S. Sverchkov"
+    ],
+    "summary": "The genetic product of the groupoids, originating in the theory of DNA\nrecombination, is introduced. It permits a natural generalization of the\nclassical genetic algorithm. The full characterization of all three-element\ngenetic groupoids gives an approach to construct the new classes of genetic\nalgorithms. In the conclusion, we formulate some open problems in the theory of\nthe genetic groupoids.",
+    "pdf_url": "http://arxiv.org/pdf/1209.4847v1",
+    "published": "2012-09-21"
+  },
+  "1310.3197v1": {
+    "title": "Routes for breaching and protecting genetic privacy",
+    "authors": [
+      "Yaniv Erlich",
+      "Arvind Narayanan"
+    ],
+    "summary": "We are entering the era of ubiquitous genetic information for research,\nclinical care, and personal curiosity. Sharing these datasets is vital for\nrapid progress in understanding the genetic basis of human diseases. However,\none growing concern is the ability to protect the genetic privacy of the data\noriginators. Here, we technically map threats to genetic privacy and discuss\npotential mitigation strategies for privacy-preserving dissemination of genetic\ndata.",
+    "pdf_url": "http://arxiv.org/pdf/1310.3197v1",
+    "published": "2013-10-11"
+  },
+  "1101.1273v2": {
+    "title": "Understanding and predicting synthetic lethal genetic interactions in Saccharomyces cerevisiae using domain genetic interactions",
+    "authors": [
+      "Bo Li",
+      "Weiguo Cao",
+      "Jizhong Zhou",
+      "Feng Luo"
+    ],
+    "summary": "Genetic interactions have been widely used to define functional relationships\nbetween proteins and pathways. In this study, we demonstrated that yeast\nsynthetic lethal genetic interactions can be explained by the genetic\ninteractions between domains of those proteins. The domain genetic interactions\nrarely overlap with the domain physical interactions from iPfam database and\nprovide a complementary view about domain relationships. Moreover, we found\nthat domains in multidomain yeast proteins contribute to their genetic\ninteractions differently. The domain genetic interactions help more precisely\ndefine the function related to the synthetic lethal genetic interactions, and\nthen help understand how domains contribute to different functionalities of\nmultidomain proteins. Using the probabilities of domain genetic interactions,\nwe were able to predict novel yeast synthetic lethal genetic interactions.\nFurthermore, we had also identified novel compensatory pathways from the\npredicted synthetic lethal genetic interactions. Our study significantly\nimproved the understanding of yeast mulitdomain proteins, the synthetic lethal\ngenetic interactions and the functional relationships between proteins and\npathways.",
+    "pdf_url": "http://arxiv.org/pdf/1101.1273v2",
+    "published": "2011-01-06"
+  },
+  "2207.11595v2": {
+    "title": "Genetic similarity versus genetic ancestry groups as sample descriptors in human genetics",
+    "authors": [
+      "Graham Coop"
+    ],
+    "summary": "A common sample descriptor in human genomics studies is that of 'genetic\nancestry group', with terms such as 'European genetic ancestry' or 'East Asian\ngenetic ancestry' frequently used in publications to describe the genetics of\ngroups of individuals based on the analysis of their genotypes. In this\nPerspective, I argue that these terms are imprecise and potentially misleading\nand that, for most applications, simple statements of genetic similarity\nrepresent a more accurate description.",
+    "pdf_url": "http://arxiv.org/pdf/2207.11595v2",
+    "published": "2022-07-23"
+  },
+  "1308.4675v2": {
+    "title": "Genetic Algorithm for Solving Simple Mathematical Equality Problem",
+    "authors": [
+      "Denny Hermawanto"
+    ],
+    "summary": "This paper explains genetic algorithm for novice in this field. Basic\nphilosophy of genetic algorithm and its flowchart are described. Step by step\nnumerical computation of genetic algorithm for solving simple mathematical\nequality problem will be briefly explained",
+    "pdf_url": "http://arxiv.org/pdf/1308.4675v2",
+    "published": "2013-08-16"
+  }
+}

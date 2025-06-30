@@ -1,6 +1,7 @@
 # Learn MCP Project
 
-This repository contains Jupyter notebooks and resources for learning Model Context Protocol (MCP).
+The code in this repository is taken from Deep Learning Course https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/ 
+This is a learning activity only. I highly recommend the course for further details
 
 ## Project Structure
 
