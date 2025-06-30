@@ -20,9 +20,13 @@ arxiv==2.1.0
 mcp==1.0.0
 fastmcp==0.9.0
 
+# Azure OpenAI Client Dependencies
+openai==1.12.0
+python-dotenv==1.0.0
+nest-asyncio==1.5.8
+
 # Additional Utilities
 requests==2.31.0
-python-dotenv==1.0.0
 
 # Development Tools
 black==23.7.0

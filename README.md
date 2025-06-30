@@ -2,6 +2,7 @@
 
 The code in this repository is taken from Deep Learning Course https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/ 
 This is a learning activity only. I highly recommend the course for further details
+I switched from Anthropic to Azure OpenAI in this code
 
 ## Project Structure
 
