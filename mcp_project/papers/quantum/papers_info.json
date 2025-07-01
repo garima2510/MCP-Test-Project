@@ -1,0 +1,21 @@
+{
+  "quant-ph/0201082v1": {
+    "title": "Quantum Computers and Quantum Computer Languages: Quantum Assembly Language and Quantum C Language",
+    "authors": [
+      "Stephen Blaha"
+    ],
+    "summary": "We show a representation of Quantum Computers defines Quantum Turing Machines\nwith associated Quantum Grammars. We then create examples of Quantum Grammars.\nLastly we develop an algebraic approach to high level Quantum Languages using\nQuantum Assembly language and Quantum C language as examples.",
+    "pdf_url": "http://arxiv.org/pdf/quant-ph/0201082v1",
+    "published": "2002-01-18"
+  },
+  "quant-ph/0407102v1": {
+    "title": "Quantum Networks for Generating Arbitrary Quantum States",
+    "authors": [
+      "Phillip Kaye",
+      "Michele Mosca"
+    ],
+    "summary": "Quantum protocols often require the generation of specific quantum states. We\ndescribe a quantum algorithm for generating any prescribed quantum state. For\nan important subclass of states, including pure symmetric states, this\nalgorithm is efficient.",
+    "pdf_url": "http://arxiv.org/pdf/quant-ph/0407102v1",
+    "published": "2004-07-14"
+  }
+}
