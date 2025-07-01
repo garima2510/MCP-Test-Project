@@ -1,0 +1,28 @@
+{
+  "2505.02279v2": {
+    "title": "A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)",
+    "authors": [
+      "Abul Ehtesham",
+      "Aditi Singh",
+      "Gaurav Kumar Gupta",
+      "Saket Kumar"
+    ],
+    "summary": "Large language model powered autonomous agents demand robust, standardized\nprotocols to integrate tools, share contextual data, and coordinate tasks\nacross heterogeneous systems. Ad-hoc integrations are difficult to scale,\nsecure, and generalize across domains. This survey examines four emerging agent\ncommunication protocols: Model Context Protocol (MCP), Agent Communication\nProtocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol\n(ANP), each addressing interoperability in deployment contexts. MCP provides a\nJSON-RPC client-server interface for secure tool invocation and typed data\nexchange. ACP defines a general-purpose communication protocol over RESTful\nHTTP, supporting MIME-typed multipart messages and synchronous and asynchronous\ninteractions. Its lightweight and runtime-independent design enables scalable\nagent invocation, while features like session management, message routing, and\nintegration with role-based and decentralized identifiers (DIDs). A2A enables\npeer-to-peer task delegation using capability-based Agent Cards, supporting\nsecure and scalable collaboration across enterprise agent workflows. ANP\nsupports open network agent discovery and secure collaboration using W3C\ndecentralized identifiers DIDs and JSON-LD graphs. The protocols are compared\nacross multiple dimensions, including interaction modes, discovery mechanisms,\ncommunication patterns, and security models. Based on the comparative analysis,\na phased adoption roadmap is proposed: beginning with MCP for tool access,\nfollowed by ACP for structured, multimodal messaging session-aware interaction\nand both online and offline agent discovery across scalable, HTTP-based\ndeployments A2A for collaborative task execution, and extending to ANP for\ndecentralized agent marketplaces. This work provides a comprehensive foundation\nfor designing secure, interoperable, and scalable ecosystems of LLM-powered\nagents.",
+    "pdf_url": "http://arxiv.org/pdf/2505.02279v2",
+    "published": "2025-05-04"
+  },
+  "1911.06992v2": {
+    "title": "Learning Efficient Multi-agent Communication: An Information Bottleneck Approach",
+    "authors": [
+      "Rundong Wang",
+      "Xu He",
+      "Runsheng Yu",
+      "Wei Qiu",
+      "Bo An",
+      "Zinovi Rabinovich"
+    ],
+    "summary": "We consider the problem of the limited-bandwidth communication for\nmulti-agent reinforcement learning, where agents cooperate with the assistance\nof a communication protocol and a scheduler. The protocol and scheduler jointly\ndetermine which agent is communicating what message and to whom. Under the\nlimited bandwidth constraint, a communication protocol is required to generate\ninformative messages. Meanwhile, an unnecessary communication connection should\nnot be established because it occupies limited resources in vain. In this\npaper, we develop an Informative Multi-Agent Communication (IMAC) method to\nlearn efficient communication protocols as well as scheduling. First, from the\nperspective of communication theory, we prove that the limited bandwidth\nconstraint requires low-entropy messages throughout the transmission. Then\ninspired by the information bottleneck principle, we learn a valuable and\ncompact communication protocol and a weight-based scheduler. To demonstrate the\nefficiency of our method, we conduct extensive experiments in various\ncooperative and competitive multi-agent tasks with different numbers of agents\nand different bandwidths. We show that IMAC converges faster and leads to\nefficient communication among agents under the limited bandwidth as compared to\nmany baseline methods.",
+    "pdf_url": "http://arxiv.org/pdf/1911.06992v2",
+    "published": "2019-11-16"
+  }
+}

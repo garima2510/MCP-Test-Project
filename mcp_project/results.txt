@@ -1,0 +1,25 @@
+**Summary of Findings**
+
+**1. Paper Title:** A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)
+**Authors:** Abul Ehtesham, Aditi Singh, Gaurav Kumar Gupta, Saket Kumar
+**Summary:**
+Large language model-powered autonomous agents demand robust, standardized protocols for tool integration, contextual data sharing, and task coordination across heterogeneous systems. Unstructured integration methods are hard to scale and secure across domains. This survey examines four emerging communication protocols: 
+- MCP for secure tool invocation and data exchange using JSON-RPC.
+- ACP for scalable messaging over RESTful API supporting synchronous and asynchronous communication.
+- A2A enables peer-to-peer task delegation for collaborative workflows.
+- ANP supports agent discovery and collaboration in decentralized networks using DIDs and JSON-LD graphs.
+In-depth comparisons guide phased adoption for LLM-powered agents, offering a roadmap starting with MCP followed by ACP, A2A, and eventually ANP. This work helps design interoperable ecosystems.
+**Published Date:** 2025-05-04
+**PDF Link:** [Read Paper](http://arxiv.org/pdf/2505.02279v2)
+
+**2. Paper Title:** Learning Efficient Multi-agent Communication: An Information Bottleneck Approach
+**Authors:** Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich
+**Summary:**
+This paper addresses the challenge of limited bandwidth communication in multi-agent reinforcement learning, where cooperation relies on communication protocols and scheduling. Their Informative Multi-Agent Communication (IMAC) method optimizes resource-efficient communication:
+- Low-entropy message generation is proven crucial to operate under bandwidth constraints.
+- Compact communication protocols and weighted schedulers based on information theory principles are created.
+Experimental results in various cooperate-and-compete tasks show faster convergence and more efficient communication under constrained bandwidth compared to baseline methods.
+**Published Date:** 2019-11-16
+**PDF Link:** [Read Paper](http://arxiv.org/pdf/1911.06992v2)
+
+These papers delve into advancing agent communication protocols, focusing on efficient scheduling, secure interoperability, and structured communication. Insights could support developments in distributed AI systems in areas like IoT and multi-agent platforms.
